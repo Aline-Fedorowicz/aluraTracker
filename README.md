@@ -2,9 +2,6 @@
   <img src="src/assets/logo.png" width="160px">
 </p>
 
-<p align="center">
-    <img alt="aluraTracker" src="src/assets/aluraTracker.png" style="max-width: 100%;">
-</p>
 
 <br>
 
@@ -14,4 +11,8 @@
 ## 💻 Projeto
 
 O Alura Tracker é uma aplicação responsável por controlar o tempo gasto em cada tarefa.
+
+<p align="center">
+    <img alt="aluraTracker" src="src/assets/aluraTracker.png" style="max-width: 100%;">
+</p>
 
