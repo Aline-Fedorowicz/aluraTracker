@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-
-   <img src="src/assets/aluraTracker.png" width="160px">   
+    <img alt="aluraTracker" src="src/assets/aluraTracker.png" style="max-width: 100%;">
 </p>
 
 <br>
