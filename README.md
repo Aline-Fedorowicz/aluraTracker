@@ -13,6 +13,12 @@
 O Alura Tracker é uma aplicação responsável por controlar o tempo gasto em cada tarefa.
 
 <p align="center">
-    <img alt="aluraTracker" src="src/assets/aluraTracker.png" style="max-width: 100%;">
+    <img alt="aluraTracker" src="src/assets/projetos.png" style="max-width: 100%;">
+   
+</p>
+
+<p align="center">
+    <img alt="aluraTracker" src="src/assets/tarefas.png" style="max-width: 100%;">
+   
 </p>
 
